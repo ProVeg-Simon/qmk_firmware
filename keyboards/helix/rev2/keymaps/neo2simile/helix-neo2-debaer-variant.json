@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Helix Neo2 deBaer Variant",
+    "switchMount": "cherry",
+    "switchBrand": "kailh",
+    "switchType": "PG151101D64/D10",
+    "pcb": false,
+    "plate": true
+  },
+  [
+    {
+      "f": 6,
+      "fa": [
+        0,
+        0,
+        4
+      ]
+    },
+    "\nEsc\nF1",
+    "°\n1\nF2\n¹",
+    "§\n2\nF3\n²",
+    "ℓ\n3\nF4\n³",
+    "&raquo;\n4\nF5\n›",
+    "&laquo;\n5\nF6\n‹",
+    {
+      "x": 3
+    },
+    "$\n6\nF7\n¢",
+    "€\n7\nF8\n¥",
+    "&bdquo;\n8\nF9\n‚",
+    "&ldquo;\n9\nF10\n‘",
+    "&rdquo;\n0\nF11\n’",
+    {
+      "f": 3,
+      "fa": [
+        0,
+        0,
+        4
+      ]
+    },
+    "\n\nF12"
+  ],
+  [
+    {
+      "f": 6
+    },
+    "<i class='kb kb-Line-Start'></i>\n<i class='kb kb-Line-End'></i>",
+    "\nX\n\n…",
+    "\nV\n\n_",
+    "\nL\n\n[",
+    "\nC\n\n]",
+    {
+      "t": "#000000\n#"
+    },
+    "\nW\n\n^",
+    {
+      "x": 3,
+      "t": "#000000"
+    },
+    "\nK\n\n!",
+    "\nH\n7\n<",
+    "\nG\n8\n>",
+    "\nF\n9\n=",
+    "\nQ\n+\n&",
+    {
+      "a": 7,
+      "f": 9
+    },
+    "↘"
+  ],
+  [
+    "↘",
+    {
+      "c": "#80c9f2",
+      "a": 4,
+      "f": 6
+    },
+    "\nU\n\n\\",
+    "\nI\n\n/",
+    "\nA\n\n{",
+    "\nE\n\n}",
+    {
+      "c": "#cccccc",
+      "t": "#000000\n\n\n#"
+    },
+    "\nO\n\n*",
+    {
+      "x": 3,
+      "t": "#000000"
+    },
+    "\nS\n\n?",
+    {
+      "c": "#80c9f2"
+    },
+    "\nN\n4\n(",
+    "\nR\n5\n)",
+    "\nT\n6\n-",
+    "\nD\n,\n:",
+    {
+      "c": "#cccccc"
+    },
+    "\nY\n.\n@"
+  ],
+  [
+    {
+      "a": 7,
+      "f": 9
+    },
+    "↑",
+    {
+      "a": 4,
+      "f": 6
+    },
+    "\nÜ\n\n#",
+    "\nÖ\n\n$",
+    "\nÄ\n\n|",
+    "\nP\n\n~",
+    "\nZ\n\n`",
+    {
+      "a": 7,
+      "f": 3
+    },
+    "",
+    {
+      "x": 1
+    },
+    "",
+    {
+      "a": 4,
+      "f": 6
+    },
+    "\nB\n\n+",
+    "\nM\n1\n%",
+    "–\n,\n2\n\"",
+    "&bull;\n.\n3\n'",
+    "\nJ\n\n;",
+    {
+      "a": 7,
+      "f": 9
+    },
+    "↑"
+  ],
+  [
+    {
+      "f": 6
+    },
+    "Ctrl",
+    {
+      "f": 7
+    },
+    "Alt",
+    {
+      "f": 9
+    },
+    "<i class='kb kb-Arrows-Up-Right'></i>",
+    "⇦",
+    "⇨",
+    {
+      "a": 4,
+      "f": 6,
+      "fa": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\n\n\nHome\n\n\n<i class='mss mss-Unicode-BackSpace-DeleteLeft-Big-2'></i>",
+    "\n\n\nEnd\n\n\n<i class='mss mss-Unicode-DeleteRight-Big-2'></i>",
+    {
+      "x": 1,
+      "f": 3,
+      "fa": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        6
+      ]
+    },
+    "\n\n\nPgUp\n\n\n<i class='kb kb-Return-2'></i>",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\n\n0\nPgDn\n\n\nSpace",
+    {
+      "a": 7,
+      "fa": [
+        9
+      ]
+    },
+    "⇧",
+    "⇩",
+    {
+      "a": 4,
+      "f": 6
+    },
+    "\nẞ\n\nſ",
+    {
+      "a": 7
+    },
+    "⌘",
+    "Alt"
+  ]
+]
